@@ -18,7 +18,7 @@
 	          <artifactId>maven-jar-plugin</artifactId>
 	          <version>2.3.1</version>
 	          <configuration>
-	            <outputDirectory>/my/path</outputDirectory>
+	            <outputDirectory>/var/lib/jenkins/output</outputDirectory>
 	          </configuration>
 	        </plugin>
 	      </plugins>
